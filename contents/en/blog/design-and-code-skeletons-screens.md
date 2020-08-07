@@ -12,7 +12,7 @@ description: |
   You will learn how to design a Skeleton Screen thinking about its asynchronometry and how to code it based on Sketch or Photoshop opacity modes.
 ---
 
-## What are Skeleton Screens?
+## What are Skeleton Screensssssssssss?
 
 Surely Facebook or Linkedin have been the main drivers of the so-called Skeleton Screens. You just have to log in in these platforms and you will see bars that move giving you the feeling that the content is loading.
 
